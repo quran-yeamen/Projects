@@ -1,0 +1,8 @@
+paths:
+  classes_file: "C:/Users/quran/PycharmProjects/video_processing_project/model/synset_words.txt"
+  proto_path: "C:/Users/quran/PycharmProjects/video_processing_project/model/bvlc_googlenet.prototxt"
+  model_path: "C:/Users/quran/PycharmProjects/video_processing_project/model/bvlc_googlenet.caffemodel"
+  video_path: "C:/Users/quran/PycharmProjects/video_processing_project/video/day_video.mp4"
+settings:
+  process_every_n_frames: 5
+  confidence_threshold: 0.5

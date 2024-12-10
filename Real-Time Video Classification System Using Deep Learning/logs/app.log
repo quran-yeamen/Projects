@@ -1,0 +1,67 @@
+2024-10-30 08:44:36,853 - ERROR - Class file not found. Please check the path.
+2024-10-30 08:45:11,411 - ERROR - Class file not found. Please check the path.
+2024-10-30 08:49:38,074 - INFO - Attempting to load class file from C:/Users/quran/PycharmProjects/video_processing_project/model/synset_words.txt
+2024-10-30 08:49:38,075 - INFO - Classes loaded successfully.
+2024-10-30 08:49:38,221 - INFO - Model loaded successfully.
+2024-10-30 09:00:40,841 - INFO - Attempting to load class file from C:/Users/quran/PycharmProjects/video_processing_project/model/synset_words.txt
+2024-10-30 09:00:40,842 - INFO - Classes loaded successfully.
+2024-10-30 09:00:40,980 - INFO - Model loaded successfully.
+2024-10-30 10:22:07,744 - INFO - Attempting to load class file from C:/Users/quran/PycharmProjects/video_processing_project/model/synset_words.txt
+2024-10-30 10:22:07,753 - INFO - Classes loaded successfully.
+2024-10-30 10:22:07,915 - INFO - Model loaded successfully.
+2024-10-31 06:13:34,297 - INFO - Starting video processing application
+2024-10-31 06:13:34,298 - INFO - Attempting to load class file from C:/Users/quran/PycharmProjects/video_processing_project/model/synset_words.txt
+2024-10-31 06:13:34,299 - INFO - Classes loaded successfully.
+2024-10-31 06:13:34,494 - INFO - Model loaded successfully.
+2024-10-31 06:13:52,454 - INFO - Video processing completed successfully
+2024-10-31 06:16:57,983 - INFO - Starting video processing application
+2024-10-31 06:16:57,984 - INFO - Attempting to load class file from path/to/model/synset_words.txt
+2024-10-31 06:16:57,984 - ERROR - Class file not found at C:\Users\quran\PycharmProjects\video_processing_project\path\to\model\synset_words.txt. Please check the path.
+2024-10-31 06:17:04,599 - INFO - Starting video processing application
+2024-10-31 06:17:04,599 - INFO - Attempting to load class file from path/to/model/synset_words.txt
+2024-10-31 06:17:04,599 - ERROR - Class file not found at C:\Users\quran\PycharmProjects\video_processing_project\path\to\model\synset_words.txt. Please check the path.
+2024-10-31 06:17:40,311 - INFO - Starting video processing application
+2024-10-31 06:17:40,311 - INFO - Attempting to load class file from path/to/model/synset_words.txt
+2024-10-31 06:17:40,311 - ERROR - Class file not found at C:\Users\quran\PycharmProjects\video_processing_project\path\to\model\synset_words.txt. Please check the path.
+2024-10-31 06:17:43,397 - INFO - Starting video processing application
+2024-10-31 06:17:43,397 - INFO - Attempting to load class file from path/to/model/synset_words.txt
+2024-10-31 06:17:43,397 - ERROR - Class file not found at C:\Users\quran\PycharmProjects\video_processing_project\path\to\model\synset_words.txt. Please check the path.
+2024-10-31 06:19:01,501 - INFO - Starting video processing application
+2024-10-31 06:19:01,501 - INFO - Attempting to load class file from path\to\model\synset_words.txt
+2024-10-31 06:19:01,501 - ERROR - Class file not found at C:\Users\quran\PycharmProjects\video_processing_project\path\to\model\synset_words.txt. Please check the path.
+2024-10-31 06:19:14,095 - INFO - Starting video processing application
+2024-10-31 06:19:14,095 - INFO - Attempting to load class file from path\to\model\synset_words.txt
+2024-10-31 06:19:14,095 - ERROR - Class file not found at C:\Users\quran\PycharmProjects\video_processing_project\path\to\model\synset_words.txt. Please check the path.
+2024-10-31 06:19:24,955 - INFO - Starting video processing application
+2024-10-31 06:19:24,955 - INFO - Attempting to load class file from path\to\model\synset_words.txt
+2024-10-31 06:19:24,955 - ERROR - Class file not found at C:\Users\quran\PycharmProjects\video_processing_project\path\to\model\synset_words.txt. Please check the path.
+2024-10-31 06:20:32,851 - INFO - Starting video processing application
+2024-10-31 06:20:32,851 - INFO - Attempting to load class file from path/to/model/synset_words.txt
+2024-10-31 06:20:32,851 - ERROR - Class file not found at C:\Users\quran\PycharmProjects\video_processing_project\path\to\model\synset_words.txt. Please check the path.
+2024-10-31 06:21:13,172 - INFO - Starting video processing application
+2024-10-31 06:21:13,172 - INFO - Attempting to load class file from path/to/model/synset_words.txt
+2024-10-31 06:21:13,172 - ERROR - Class file not found at C:\Users\quran\PycharmProjects\video_processing_project\path\to\model\synset_words.txt. Please check the path.
+2024-10-31 06:21:34,337 - INFO - Starting video processing application
+2024-10-31 06:21:34,337 - INFO - Attempting to load class file from C:/Users/quran/PycharmProjects/video_processing_project/model/synset_words.txt
+2024-10-31 06:21:34,338 - INFO - Classes loaded successfully.
+2024-10-31 06:21:34,508 - INFO - Model loaded successfully.
+2024-10-31 06:23:23,076 - INFO - Starting video processing application
+2024-10-31 06:23:23,076 - INFO - Attempting to load class file from C:\Users\quran\PycharmProjects\video_processing_project\model\synset_words.txt
+2024-10-31 06:23:23,077 - INFO - Classes loaded successfully.
+2024-10-31 06:23:23,206 - INFO - Model loaded successfully.
+2024-10-31 06:23:29,440 - INFO - Video processing completed successfully
+2024-10-31 06:26:30,915 - INFO - Starting video processing application
+2024-10-31 06:26:30,915 - INFO - Attempting to load class file from C:\Users\quran\PycharmProjects\video_processing_project\model\synset_words.txt
+2024-10-31 06:26:30,917 - INFO - Classes loaded successfully.
+2024-10-31 06:26:31,112 - INFO - Model loaded successfully.
+2024-10-31 06:27:20,552 - INFO - Video processing completed successfully
+2024-10-31 06:28:38,076 - INFO - Starting video processing application
+2024-10-31 06:28:38,076 - INFO - Attempting to load class file from C:\Users\quran\PycharmProjects\video_processing_project\model\synset_words.txt
+2024-10-31 06:28:38,077 - INFO - Classes loaded successfully.
+2024-10-31 06:28:38,230 - INFO - Model loaded successfully.
+2024-10-31 06:28:55,786 - INFO - Video processing completed successfully
+2024-10-31 06:37:36,358 - INFO - Starting video processing application
+2024-10-31 06:37:36,358 - INFO - Attempting to load class file from C:\Users\quran\PycharmProjects\video_processing_project\model\synset_words.txt
+2024-10-31 06:37:36,360 - INFO - Classes loaded successfully.
+2024-10-31 06:37:36,518 - INFO - Model loaded successfully.
+2024-10-31 06:38:19,443 - INFO - Video processing completed successfully
